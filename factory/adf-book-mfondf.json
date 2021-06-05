@@ -1,0 +1,9 @@
+{
+	"name": "adf-book-mfondf",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7820d67f-42bb-401f-b12a-0032565326d6",
+		"tenantId": "d11185cc-5b35-406e-bb67-c12056098b1f"
+	}
+}
